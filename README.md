@@ -31,7 +31,7 @@ useRef
 ![Captura de tela 2024-01-21 032621](https://github.com/hianmateus/TecTest-ReactPage/assets/103609199/a8d099ac-d362-4aa3-be82-c07c01ac573d)
 
 
-Logo após isso, sera criado uma <li> com as informações colocadas anteriormente, todas abaixo de seus respectivos "Titulos", foi feita através do "Map" mapeando dentro de uma "ul" uma Lista criada pelo "StyledCompents"
+Logo após isso, sera criado uma lista com as informações colocadas anteriormente, todas abaixo de seus respectivos "Titulos", foi feita através do "Map" mapeando dentro de uma "ul" uma Lista criada pelo "StyledCompents"
 (aliás foi usado Styled-Components na aplicação) a variavel "Clientes" que depois foi alterada para "Clientes Filtrados" logo mais terá o porque,
 
 ![Captura de tela 2024-01-21 033414](https://github.com/hianmateus/TecTest-ReactPage/assets/103609199/a66ba6de-d51b-4b6d-8211-9b069879dd4c)
