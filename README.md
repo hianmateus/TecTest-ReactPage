@@ -1,6 +1,6 @@
 Primeiramente Agradeço pela oportunidade de praticar minhas habilidades nesse teste. Para começar vou ser honesto e deixar claro que sou desenvolvedor Frontend, Backend ainda não é o meu forte
-fiz o possivel para entender os conceitos mas como o prazo de entrega era curto vou lhe entrega este projeto Frontend Sem banco de dados. Muito bem, o sistema todo foi feito no Frontend, logo
-você dara de cara com essa tela, o Header decorativo e ao centro a seção principal onde temos um Botão de cadastro e um input para filtrarmos os clientes
+fiz o possivel para entender os conceitos mas como o prazo de entrega era curto vou lhe entrega este projeto Frontend Sem banco de dados. Muito bem, o sistema todo foi feito no Frontend. Para rodar o projeto abra o arquivo TecTest-ReactPage, e depois digite o comando: "cd clientsapp", caso seja necessario instalar as dependencias basta digitar o comando: "npm i" logo depois digite o comando: "yarn dev" se o yarn não estiver instalado digite: "npm run dev". 
+Logo você dara de cara com essa tela, o Header decorativo e ao centro a seção principal onde temos um Botão de cadastro e um input para filtrarmos os clientes
 
 ![Captura de tela 2024-01-21 030512](https://github.com/hianmateus/TecTest-ReactPage/assets/103609199/e3ef9a8a-70c7-411b-b914-9fe3c2440e51)
 
@@ -43,6 +43,10 @@ se reparar agora, há um botão de "delete" ao lado de Status, ele serve exataam
 na Lista algumas informações de nome, email e telefone podem ser maiores ou menores, isso altera um pouco a posiçao dos elementos mas nada que atrapalhe a compreensão.
 
 ![Captura de tela 2024-01-21 034843](https://github.com/hianmateus/TecTest-ReactPage/assets/103609199/4f28ec64-c8ef-402b-9a28-c8e73e4e970f)
+
+O trecho de Código para deletar o cliente foi bem simples, um função pegando id que esta no objeto da lista e utilizando apra filtrar e renderizar a lista na tela novamente
+
+![Captura de tela 2024-01-21 042628](https://github.com/hianmateus/TecTest-ReactPage/assets/103609199/4dbea872-03db-4c8c-b96f-7411458aac35)
 
 
 nas areas de "Realizadas?" e "Status" quando clicados mudam seus valores, de "Não" para "Sim" e de "Não Realizada" para "Realizada", o sistema disso seria melhor, onde selecionando um mudaria
