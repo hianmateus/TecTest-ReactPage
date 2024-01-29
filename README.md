@@ -1,6 +1,4 @@
-Primeiramente Agradeço pela oportunidade de praticar minhas habilidades nesse teste. Para começar vou ser honesto e deixar claro que sou desenvolvedor Frontend, Backend ainda não é o meu forte
-fiz o possivel para entender os conceitos mas como o prazo de entrega era curto vou lhe entrega este projeto Frontend Sem banco de dados. Muito bem, o sistema todo foi feito no Frontend. Para rodar o projeto abra o arquivo TecTest-ReactPage, e depois digite o comando: "cd clientsapp", caso seja necessario instalar as dependencias basta digitar o comando: "npm i" logo depois digite o comando: "yarn dev" se o yarn não estiver instalado digite: "npm run dev". 
-Logo você dara de cara com essa tela, o Header decorativo e ao centro a seção principal onde temos um Botão de cadastro e um input para filtrarmos os clientes
+Você dara de cara com essa tela, o Header decorativo e ao centro a seção principal onde temos um Botão de cadastro e um input para filtrarmos os clientes
 
 ![Captura de tela 2024-01-21 030512](https://github.com/hianmateus/TecTest-ReactPage/assets/103609199/e3ef9a8a-70c7-411b-b914-9fe3c2440e51)
 
